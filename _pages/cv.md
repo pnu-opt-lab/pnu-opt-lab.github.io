@@ -17,7 +17,8 @@ Education
 
 Current Position
 ======
-* Assistant Professor, Department of Industrial Engineering, Pusan National University
+* Assistant Professor
+  * Department of Industrial Engineering, Pusan National University
 
 Work experience
 ======

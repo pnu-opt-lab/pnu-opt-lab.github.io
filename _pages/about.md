@@ -11,6 +11,17 @@ redirect_from:
 
 Our lab is an Operations Research (OR) laboratory focused on optimization methodologies based on Linear Programming (LP) and Mixed-Integer Programming (MIP). We build mathematical models that support optimal decision-making across diverse domains and develop algorithms to find optimal solutions. We are also interested in Robust Optimization (RO), which seeks the best decisions under uncertainty. Our research applies these methods to real-world industrial problems, including power systems, supply chains, data centers, social networks, ports, energy, and production scheduling.
 
+Working or potential research topics
+======
+* 이종 크레인 기반 강판 적재 및 재취급 최적화 알고리즘 개발
+* 선박 ETA/RTA 변경에 따른 선석운영 계획 기반 항만 운영 예측
+* Combining stochastic programming and adaptive robust optimization
+* Shuttle bus station queueing time as uncertainty
+* Adaptive robust optimization approach for cash pooling in supply chain management 
+* Decompisition algorithm for the positive influence dominating set with partial payment in the social networks
+
+그 외 다양한 최적화 이론 및 알고리즘 연구에 관심있는 분들은 연락주시기 바랍니다.
+
 Contact
 ======
 **Mailing address**: 부산광역시 금정구 부산대학로63번길 2, 10공학관 10615호 (2, Busandaehak-ro63beon-gil, Geumjeong-gu, Busan, 46241, Korea)
