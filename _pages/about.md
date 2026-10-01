@@ -15,7 +15,6 @@ Working or potential research topics
 ======
 * 이종 크레인 기반 강판 적재 및 재취급 최적화 알고리즘 개발
 * 선박 ETA/RTA 변경에 따른 선석운영 계획 기반 항만 운영 예측
-* Combining stochastic programming and adaptive robust optimization
 * Shuttle bus station queueing time as uncertainty
 * Adaptive robust optimization approach for cash pooling in supply chain management 
 * Decompisition algorithm for the positive influence dominating set with partial payment in the social networks
