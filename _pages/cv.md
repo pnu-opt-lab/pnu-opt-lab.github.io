@@ -15,13 +15,13 @@ Education
 * M.S. in Industrial Engineering, Korea Advanced Institute of Science and Technology, 2014
 * B.S. in Industrial Engineering, Korea Advanced Institute of Science and Technology, 2012
 
-<br>
+
 Current Position
 ======
 * Assistant Professor
   * Department of Industrial Engineering, Pusan National University
 
-<br>
+
 Work experience
 ======
 * March, 2024 -- August, 2024: Postdoctoral Associate
@@ -47,7 +47,7 @@ Work experience
   * Participating in the task of supply chain planning engine development
   * Developing display panel defects review & repair path optimizer
 
-<br>
+
 Research Interest
 ======
 * Mathematical programming
