@@ -1,5 +1,5 @@
 ---
-title: "Supply Chain Management(최적화개론)"
+title: "Supply Chain Management(공급사슬관리)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/SCM
