@@ -11,54 +11,59 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Industrial Engineering, Korea Advanced Institute of Science and Technology, 2020
+* M.S. in Industrial Engineering, Korea Advanced Institute of Science and Technology, 2014
+* B.S. in Industrial Engineering, Korea Advanced Institute of Science and Technology, 2012
+
+Current Position
+======
+* Assistant Professor, Department of Industrial Engineering, Pusan National University
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* March, 2024 -- August, 2024: Postdoctoral Associate
+  * Ivey Business School, Western University, Canada
+  * Working on Electric Bust operation
+  * Working on Energy Efficient AI operation
+  * Supervisor: Professor Bissan Ghaddar
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* February, 2022 -- March 2024: Manager
+  * AI/Big Data Optimization Team, LG Display, Korea
+  * Developing a supply chain planning engine considering the sequence-dependent setup
+  * Optimizing the commuter bus station location and route (as a Part Leader)
+  * Bidding strategy simulator for the vendor (as a Part Leader)
+  * Optimizing purchasing strategy (as a Part Leader)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* February, 2021 -- August, 2022: Postdoctoral Fellowship
+  * Department of Management Science, University of Waterloo, Canada
+  * Working on Electric Vehicle Routing related problems
+  * Supervisor: Professor Bissan Ghaddar
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* January, 2020 -- February, 2021
+  * AI/Big Data Optimization Team, LG Display, Korea
+  * Participating in the task of supply chain planning engine development
+  * Developing display panel defects review & repair path optimizer
 
-Publications
+Research Interest
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+* Mathematical programming
+  * Linear programming
+  * Mixed integer programming
+  * Convex programming
+
+* Decision making under uncertainty
+  * Robust optimization
+  * Adaptive robust optimization
+  * Distributionally robust optimization
+
+* Energy efficient system
+  * AI Inference operation
+  * Operation schedule minimizing carbon emission
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
