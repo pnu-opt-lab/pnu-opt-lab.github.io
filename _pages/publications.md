@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-The following is the list of published journal articles, conference presentations, and books.
-
-You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?hl=ko&user=p2NaCWAAAAAJ).
+The following is the list of published journal articles, conference presentations, and books. <br> You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?hl=ko&user=p2NaCWAAAAAJ).
 
 ## Journal Articles
 
