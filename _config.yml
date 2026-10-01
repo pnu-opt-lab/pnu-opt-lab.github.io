@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "Republic of Korea"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Jaehee Jeong / Site Title"
+title                    : "Optimization Modeling & Algorithm Lab"
 title_separator          : "-"
 name                     : &name "Jaehee Jeong"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Jaehee Jeong"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor"
+  bio              : "Assistant Professor <br> (Industrial Engineering)"
   location         : "Busan"
   employer         : "Pusan National University"
   uri              : # URL
