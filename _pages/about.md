@@ -11,6 +11,8 @@ redirect_from:
 
 Our lab is an Operations Research (OR) laboratory focused on optimization methodologies based on Linear Programming (LP) and Mixed-Integer Programming (MIP). We build mathematical models that support optimal decision-making across diverse domains and develop algorithms to find optimal solutions. We are also interested in Robust Optimization (RO), which seeks the best decisions under uncertainty. Our research applies these methods to real-world industrial problems, including power systems, supply chains, data centers, social networks, ports, energy, and production scheduling.
 
+<br>
+
 Working or potential research topics
 ======
 * 이종 크레인 기반 강판 적재 및 재취급 최적화 알고리즘 개발
@@ -20,6 +22,8 @@ Working or potential research topics
 * Decompisition algorithm for the positive influence dominating set with partial payment in the social networks
 
 그 외 다양한 최적화 이론 및 알고리즘 연구에 관심있는 분들은 연락주시기 바랍니다.
+
+<br>
 
 Contact
 ======
